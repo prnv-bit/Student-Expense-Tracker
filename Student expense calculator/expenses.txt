@@ -1,0 +1,5 @@
+16-01-2026,105.0,Food,Rs 75 for chai for 3 people , Rs 30 for 5 eggs
+17-01-2026,5.0,,
+17-01-2026,5.0,Travel,For traveling through private bus from paripally to madavoor
+16-01-2026,105.0,Food,75 for everyones chai and 30 for eggs
+16-01-2026,226.0,Tech,For phone screen card
